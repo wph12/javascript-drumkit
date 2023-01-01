@@ -1,2 +1,2 @@
 # javascript-drumkit
-A drum kit made with javascript. Day one of the [Javascript30 Challenge](https://github.com/wesbos/JavaScript30).
+A drum kit made with javascript. Day one of the [JavaScript30 Challenge](https://github.com/wesbos/JavaScript30).
